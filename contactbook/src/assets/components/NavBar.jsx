@@ -17,12 +17,12 @@ const NavBar = () => {
                 <Button variant="contained" color='inherit'>Signup</Button>
                 </Link>&nbsp;
 
-                <Link to="/Login">
-                <Button variant="contained" color='inherit'>Login</Button> 
+                <Link to="/Add">
+                <Button variant="contained" color='inherit'>Add</Button> 
                 </Link>&nbsp;
 
-                <Link to="/Signup">
-                <Button variant="contained" color='inherit'>Signup</Button>
+                <Link to="/View">
+                <Button variant="contained" color='inherit'>View</Button>
                 </Link>&nbsp;
 
                  </Box>
