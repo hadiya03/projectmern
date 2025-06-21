@@ -17,13 +17,6 @@ const NavBar = () => {
                 <Button variant="contained" color='inherit'>Signup</Button>
                 </Link>&nbsp;
 
-                <Link to="/Add">
-                <Button variant="contained" color='inherit'>Add</Button>
-                </Link>&nbsp;
-
-                <Link to="/View">
-                <Button variant="contained" color='inherit'>View</Button>
-                </Link>
                  </Box>
     
 
